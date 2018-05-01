@@ -9,7 +9,7 @@ public class Controller {
 
     @GetMapping("/helloworld")
     public String helloworld() {
-        Sysem.out.println("my first spring boot program!");
+        System.out.println("my first spring boot program!");
         return "hello spring boot";
     }
 
