@@ -15,5 +15,6 @@ public class App
         SpringApplication.run(App.class, args);
 		System.out.println("123");
 		System.out.println("1234");
+		System.out.println("test12345");
     }
 }
