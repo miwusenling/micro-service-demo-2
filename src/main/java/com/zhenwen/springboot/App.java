@@ -13,6 +13,6 @@ public class App
     public static void main( String[] args )
     {
         SpringApplication.run(App.class, args);
-		System.out.println("test12345");
+		System.out.println("test123456");
     }
 }
